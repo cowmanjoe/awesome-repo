@@ -73,6 +73,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015w2/exams/midterm1" />
         <option value="https://github.com/cowmanjoe/awesome-repo.git" />
         <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015w2/marking/L2B/v1l0b" />
         <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015w2/users/L2B/v1l0b" />
@@ -81,6 +82,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015w2/exams/midterm1" />
         <option value="https://github.com/cowmanjoe/awesome-repo.git" />
         <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015w2/marking/L2B/v1l0b" />
         <option value="https://kunghit.ugrad.cs.ubc.ca:8001/repos/2015w2/users/L2B/v1l0b" />
