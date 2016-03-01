@@ -68,6 +68,7 @@
     </filter>
   </component>
   <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="EXTRACT_INTERFACE_JAVADOC" value="1" />
   </component>
   <component name="SvnApplicationSettings">
